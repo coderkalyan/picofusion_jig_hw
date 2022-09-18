@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "PTS815")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/PTS815.pretty")(options "")(descr ""))
+  (lib (name "U254-051T-4BH83-F1S")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/U254-051T-4BH83-F1S.pretty")(options "")(descr ""))
+  (lib (name "picofusion_stamp")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/picofusion_stamp.pretty")(options "")(descr ""))
+)
